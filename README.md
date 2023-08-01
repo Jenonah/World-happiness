@@ -1,6 +1,5 @@
 # World-happiness
 
-![summary Page](World-happiness-Report/Web capture_31-7-2023_124131_app.powerbi.com.jpeg at main · Jenonah/World-happiness-Report (github.com))
 # Objectives
 
 - To identify Key factors  influencing happiness.
@@ -45,3 +44,6 @@ These findings provide valuable insights into the factors influencing happiness 
 - Recognizing the significance of freedom to make life choices in influencing happiness, governments and societies should prioritize individual freedoms and autonomy. By ensuring citizens have the liberty to make personal decisions, pursue their interests, and participate in societal matters, ultimately contributing to increased happiness levels.
 - Although generosity has a relatively low impact on happiness, promoting a culture of giving can still contribute to overall well-being. Public awareness campaigns and incentives for charitable activities can be implemented to foster a spirit of generosity within societies.
 - Dystopia an essential benchmark for understanding the worst-case scenario. Countries should be aware of their progress in comparison to this benchmark and strive to continually improve their citizens' well-being.
+![Web capture_31-7-2023_124131_app powerbi com](https://github.com/Jenonah/World-happiness-Report/assets/138598218/9c16f361-431b-4099-90d6-a3f0f167a47f)
+![Web capture_31-7-2023_124246_app powerbi com](https://github.com/Jenonah/World-happiness-Report/assets/138598218/ddacdf0b-fd4d-412c-a24e-f3a12e7f3bee)
+

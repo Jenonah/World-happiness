@@ -1,4 +1,6 @@
 # World-happiness
+
+![summary Page](World-happiness-Report/Web capture_31-7-2023_124131_app.powerbi.com.jpeg at main · Jenonah/World-happiness-Report (github.com))
 # Objectives
 
 - To identify Key factors  influencing happiness.
